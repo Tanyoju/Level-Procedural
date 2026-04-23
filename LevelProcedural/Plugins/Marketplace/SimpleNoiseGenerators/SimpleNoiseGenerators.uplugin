@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.6",
+	"FriendlyName": "SimpleNoiseGenerators",
+	"Description": "Generate different types of noise easily in your blueprints!",
+	"Category": "Other",
+	"CreatedBy": "Studio Reborne",
+	"CreatedByURL": "",
+	"DocsURL": "https://docs.google.com/document/d/1odI14HA-Yxz2EAxFrQ0iG-5ObZ4gCzb75vMY3CFmJOM/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ab9fd1cc87d4479c95dd1d600be4cca9",
+	"SupportURL": "",
+	"EngineVersion": "5.6.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "SimpleNoiseGenerators",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
