@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/BP/BP_LP_Character.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/BP/BP_LP_GameMode.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/BP/BP_LP_PlayerController.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/BP/BP_LP_Projectile.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/BP/BPI_LP.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/L_LevelProcedural.umap",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/Input/IMC_Default.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/Input/Actions/IA_LP_Action_Dash.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/Input/Actions/IA_LP_Fire.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/Input/Actions/IA_LP_MouseAim.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/Input/Actions/IA_LP_Move.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/Input/Actions/IA_LP_StickAim.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/Input/Actions/IA_LP_UseItem.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/Input/IMC_TwinStick.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/Input/IMC_LP.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/Input/Actions/IA_LP_Dash.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/_GENERATED/qlosfelt/SM_BoxVarA.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/_GENERATED/qlosfelt/Box_98BE1EEC.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/BP/BP_FloorGenerator.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/BP/Character/BP_LP_Character.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/BP/Character/BP_LP_Projectile.uasset",
+				"C:/Users/q_losfelt/Documents/GitHub/Level-Procedural/LevelProcedural/Content/FloorAdapt/BP/Character/BPI_LP.uasset"
+			]
+		}
+	]
+}
